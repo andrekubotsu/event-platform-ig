@@ -9,6 +9,7 @@ Project developed during Ignite Lab`s Rockeseat event.
 - GraphCMS
 - Apollo Client
 - GraphQl
+- phosphor-react (icons lib)
 
 ## GraphQL
 
