@@ -10,6 +10,7 @@ Project developed during Ignite Lab`s Rockeseat event.
 - Apollo Client
 - GraphQl
 - phosphor-react (icons lib)
+- date-fns
 
 ## GraphQL
 
