@@ -11,6 +11,7 @@ Project developed during Ignite Lab`s Rockeseat event.
 - GraphQl
 - phosphor-react (icons lib)
 - date-fns
+- @vime/core @vime/react
 
 ## GraphQL
 
